@@ -1,2 +1,2 @@
 # BreakOut
-simple breakout game
+Simple breakOut game
