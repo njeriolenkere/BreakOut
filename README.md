@@ -1,2 +1,2 @@
 # BreakOut
-A simple smash the brick game
+A simple game of smashing a brick
